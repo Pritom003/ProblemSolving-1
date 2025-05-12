@@ -7,7 +7,7 @@ interface Person {
 }
 
 const people: Person[] = [
-  { name: 'MIna', age: 25, gender: 'male' },
+  { name: 'Max', age: 25, gender: 'male' },
   { name: 'Rupa', age: 22, gender: 'female' },
   { name: 'Alice', age: 30, gender: 'female' },
   { name: 'Bob', age: 27, gender: 'male' }
